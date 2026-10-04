@@ -1,16 +1,16 @@
 # Hi, I'm Yeswanth Krishna Chowdary 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2200&pause=650&color=FFB000&center=true&vCenter=true&width=900&height=70&lines=AI+%26+Cybersecurity+Learner;B.Tech+Information+Technology+Student;Learning+to+Build+Intelligent+%26+Secure+Systems" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2200&pause=650&color=FFFFFF&center=true&vCenter=true&width=900&height=70&lines=AI+%26+Cybersecurity+Learner;B.Tech+Information+Technology+Student;Learning+to+Build+Intelligent+%26+Secure+Systems" alt="Animated introduction" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1800&pause=700&color=FF4ECD&center=true&vCenter=true&width=900&height=55&lines=%3E%3E+BOOTING+YESWANTH.exe...;%5BOK%5D+AI+MODULE+ONLINE;%5BOK%5D+CYBER+MODULE+ONLINE;%5B%3F%5D+STILL+BREAKING+THINGS+%F0%9F%98%8E" alt="Funky animated terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&duration=1500&pause=550&color=FFFFFF&center=true&vCenter=true&width=900&height=55&lines=%5B+SYSTEM+ONLINE+%5D;%3E+AI+%2B+CYBERSECURITY;%3E%3E+LEARN.+BREAK.+BUILD.+REPEAT.;%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F" alt="Animated futuristic status" />
 </p>
 
 <p align="center">
-  <b>╭─────────────── ⚡ DIGITAL MODE: ON ⚡ ───────────────╮</b><br>
-  🧠 AI&nbsp;&nbsp;•&nbsp;&nbsp;🛡️ Cybersecurity&nbsp;&nbsp;•&nbsp;&nbsp;💻 Code&nbsp;&nbsp;•&nbsp;&nbsp;☕ Repeat
+  <b>◈ ─────── ⚡ DIGITAL MODE: ON ⚡ ─────── ◈</b><br>
+  🧠 AI&nbsp;&nbsp; • &nbsp;&nbsp;🛡️ Cybersecurity&nbsp;&nbsp; • &nbsp;&nbsp;💻 Code&nbsp;&nbsp; • &nbsp;&nbsp;☕ Repeat
 </p>
 
 ## 🧑‍💻 About Me
