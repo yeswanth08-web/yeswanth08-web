@@ -1,16 +1,20 @@
 # Hi, I'm Yeswanth Krishna Chowdary 👋
 
 <p align="center">
-  <img src="./assets/cyber-hero.svg" width="100%" alt="Animated AI and cybersecurity hero" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2200&pause=650&color=22D3EE&center=true&vCenter=true&width=900&height=70&lines=AI+%26+Cybersecurity+Learner;B.Tech+Information+Technology+Student;Learning+to+Build+Intelligent+%26+Secure+Systems" alt="Animated introduction" />
 </p>
 
-## 👨‍💻 About Me
+<p align="center">
+  <img src="./assets/cyber-hero.svg" width="100%" alt="Animated AI and cybersecurity banner" />
+</p>
+
+## 🧑‍💻 About Me
 
 - 🎓 B.Tech Information Technology student
-- 🤖 Interested in **Artificial Intelligence and Cybersecurity**
-- 💻 Building my foundation in software development and secure computing
-- 🌱 Continuously learning, experimenting, and improving
-- 🧠 Interested in using AI to solve practical technical problems
+- 🧠 Learning **Artificial Intelligence and Cybersecurity**
+- 💻 Building strong foundations in programming and software development
+- 🔎 Exploring practical applications of AI in security
+- 📖 Learning through hands-on practice and experimentation
 
 ## 🛠️ Current Skills
 
@@ -30,9 +34,9 @@
 
 - 🐧 Linux fundamentals
 - 🌐 Networking & cybersecurity fundamentals
-- 🤖 Machine learning fundamentals
-- 🔐 AI applied to cybersecurity
-- 🧩 Problem solving and software development
+- 🧠 Machine learning fundamentals
+- 🛡️ AI applied to cybersecurity
+- ⚙️ Problem solving and software development
 
 ## 📊 GitHub Statistics
 
@@ -68,5 +72,5 @@ Building strong foundations in **AI, cybersecurity, programming, and problem sol
 ---
 
 <p align="center">
-  <b>Learn • Build • Secure • Improve</b>
+  <b>Learn • Experiment • Build • Secure</b>
 </p>
