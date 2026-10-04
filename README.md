@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-  <b>◈ ─────── ⚡ DIGITAL MODE: ON ⚡ ─────── ◈</b><br>
-  🧠 AI&nbsp;&nbsp; • &nbsp;&nbsp;🛡️ Cybersecurity&nbsp;&nbsp; • &nbsp;&nbsp;💻 Code&nbsp;&nbsp; • &nbsp;&nbsp;☕ Repeat
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1f2937,100:111827&height=45&section=header&text=%E2%9A%A1%20INITIALIZING...%20%20%E2%80%A2%20%20%E2%9A%9B%20LEARNING%20%20%E2%80%A2%20%20%F0%9F%94%90%20SECURING&fontColor=FFFFFF&fontSize=16&fontAlignY=52&animation=fadeIn" alt="Animated status bar" />
 </p>
 
 ## 🧑‍💻 About Me
