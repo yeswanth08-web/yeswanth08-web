@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&duration=1500&pause=550&color=FFFFFF&center=true&vCenter=true&width=900&height=55&lines=%5B+SYSTEM+ONLINE+%5D;%3E+AI+%2B+CYBERSECURITY;%3E%3E+LEARN.+BREAK.+BUILD.+REPEAT.;%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F" alt="Animated futuristic status" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1f2937,100:111827&height=45&section=header&text=%E2%9A%A1%20INITIALIZING...%20%20%E2%80%A2%20%20%E2%9A%9B%20LEARNING%20%20%E2%80%A2%20%20%F0%9F%94%90%20SECURING&fontColor=FFFFFF&fontSize=16&fontAlignY=52&animation=fadeIn" alt="Animated status bar" />
-</p>
-
 ## 🧑‍💻 About Me
 
 - 🎓 B.Tech Information Technology student
