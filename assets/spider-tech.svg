@@ -1,105 +1,62 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#05070d"/>
-    <stop offset=".55" stop-color="#101827"/>
-    <stop offset="1" stop-color="#05070d"/>
+    <stop offset="0" stop-color="#02040a"/><stop offset=".5" stop-color="#07162f"/><stop offset="1" stop-color="#02040a"/>
   </linearGradient>
-  <linearGradient id="suit" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#e3262e"/>
-    <stop offset=".52" stop-color="#b31322"/>
-    <stop offset=".53" stop-color="#173e91"/>
-    <stop offset="1" stop-color="#081a50"/>
-  </linearGradient>
-  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  <filter id="soft"><feGaussianBlur stdDeviation="10"/></filter>
-  <pattern id="web" width="24" height="24" patternUnits="userSpaceOnUse">
-    <path d="M12 0V24M0 12H24M3 3L21 21M21 3L3 21" stroke="#fff" stroke-width=".7" opacity=".35"/>
-    <circle cx="12" cy="12" r="7" fill="none" stroke="#fff" stroke-width=".6" opacity=".3"/>
-  </pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="shadowBlur"><feGaussianBlur stdDeviation="7"/></filter>
 </defs>
 
 <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
-<g opacity=".13" stroke="#fff">
+
+<!-- subtle animated background -->
+<g opacity=".13" stroke="#58a6ff">
   <path d="M0 55H1200M0 110H1200M0 165H1200M0 220H1200M0 275H1200"/>
-  <path d="M80 0V300M200 0V300M320 0V300M440 0V300M560 0V300M680 0V300M800 0V300M920 0V300M1040 0V300M1160 0V300"/>
+  <path d="M60 0V300M180 0V300M300 0V300M420 0V300M540 0V300M660 0V300M780 0V300M900 0V300M1020 0V300M1140 0V300"/>
 </g>
 
-<!-- moving city/code glow -->
-<g fill="#dce7ff" opacity=".18">
-  <rect x="40" y="205" width="55" height="55"/><rect x="110" y="175" width="70" height="85"/>
-  <rect x="195" y="220" width="40" height="40"/><rect x="965" y="190" width="55" height="70"/>
-  <rect x="1035" y="155" width="80" height="105"/><rect x="1130" y="210" width="35" height="50"/>
+<!-- hanging web -->
+<path d="M600 0 L600 54" stroke="#fff" stroke-width="3" opacity=".8"/>
+<path d="M600 48 Q585 62 570 48 M600 48 Q615 62 630 48" fill="none" stroke="#fff" stroke-width="1.5" opacity=".7"/>
+
+<!-- Spider-Man image from the user's supplied example -->
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 -95;0 0;0 -95" dur="2s" repeatCount="indefinite"/>
+  <image href="https://i.ibb.co/XDFkXMx/spiderman-colgado.png" x="450" y="35" width="300" height="220" preserveAspectRatio="xMidYMid meet"/>
 </g>
 
-<!-- web-swing line -->
-<path d="M1040 -20 Q910 45 790 145 T540 245" fill="none" stroke="#fff" stroke-width="2" opacity=".35" stroke-dasharray="9 8">
-  <animate attributeName="stroke-dashoffset" values="0;-34" dur="1s" repeatCount="indefinite"/>
-</path>
+<!-- bouncing shadow -->
+<ellipse cx="600" cy="270" rx="105" ry="17" fill="#000" opacity=".45" filter="url(#shadowBlur)">
+  <animate attributeName="rx" values="105;62;105" dur="2s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".45;.18;.45" dur="2s" repeatCount="indefinite"/>
+</ellipse>
 
-<!-- roaming original spider hero -->
-<g filter="url(#glow)">
-  <animateTransform attributeName="transform" type="translate" values="-230 125;100 55;390 155;670 48;940 145;1230 75" dur="11s" repeatCount="indefinite"/>
-  <animateTransform attributeName="transform" type="rotate" additive="sum" values="-10;8;-7;10;-5;0" dur="11s" repeatCount="indefinite"/>
-
-  <!-- trailing webs -->
-  <g fill="none" stroke="#fff" stroke-width="2" opacity=".65">
-    <path d="M-115 20Q-75 55-35 65"/>
-    <path d="M-130 45Q-80 70-35 78"/>
-    <path d="M-125 70Q-80 88-35 90"/>
-  </g>
-
-  <!-- head -->
-  <path d="M-28 -40 Q0 -65 28 -40 L25 0 Q0 28 -25 0Z" fill="url(#suit)" stroke="#fff" stroke-width="2"/>
-  <path d="M0 -58V20 M-24 -39Q0 -18 24 -39 M-27 -12Q0 8 27 -12 M-17 -48L17 8 M17 -48L-17 8" fill="none" stroke="#fff" stroke-width="1.2" opacity=".6"/>
-  <!-- eyes -->
-  <path d="M-20 -25 Q-5 -38 -3 -20 Q-10 -11 -20 -15Z M20 -25 Q5 -38 3 -20 Q10 -11 20 -15Z" fill="#fff" stroke="#111" stroke-width="1.5"/>
-
-  <!-- torso -->
-  <path d="M-31 15 Q0 0 31 15 L42 92 Q0 112 -42 92Z" fill="url(#suit)" stroke="#fff" stroke-width="2"/>
-  <path d="M0 15V103 M-34 42H34 M-38 65H38" stroke="#fff" stroke-width="1" opacity=".5"/>
-  <path d="M-31 15 Q0 0 31 15 L42 92 Q0 112 -42 92Z" fill="url(#web)" opacity=".18"/>
-
-  <!-- arms -->
-  <path d="M-29 28 L-73 63 L-103 38" fill="none" stroke="#d91d2a" stroke-width="15" stroke-linecap="round"/>
-  <path d="M29 28 L72 62 L103 28" fill="none" stroke="#173e91" stroke-width="15" stroke-linecap="round"/>
-  <path d="M-29 28 L-73 63 L-103 38 M29 28 L72 62 L103 28" fill="none" stroke="#fff" stroke-width="1.5"/>
-
-  <!-- legs -->
-  <path d="M-25 88 L-62 138 L-96 119" fill="none" stroke="#173e91" stroke-width="17" stroke-linecap="round"/>
-  <path d="M25 88 L61 135 L95 105" fill="none" stroke="#173e91" stroke-width="17" stroke-linecap="round"/>
-  <path d="M-25 88 L-62 138 L-96 119 M25 88 L61 135 L95 105" fill="none" stroke="#fff" stroke-width="1.5"/>
-
-  <!-- wrist web shooters -->
-  <circle cx="-103" cy="38" r="7" fill="#fff"/>
-  <circle cx="103" cy="28" r="7" fill="#fff"/>
-  <path d="M-103 38Q-165 5-205 -18 M103 28Q150 -15 184 -55" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="5 5">
-    <animate attributeName="stroke-dashoffset" values="0;-20" dur=".6s" repeatCount="indefinite"/>
+<!-- moving web strands -->
+<g fill="none" stroke="#fff" opacity=".45" stroke-width="1.5" stroke-dasharray="7 8">
+  <path d="M600 48 Q500 95 410 155 T250 280">
+    <animate attributeName="stroke-dashoffset" values="0;-30" dur=".8s" repeatCount="indefinite"/>
   </path>
-
-  <!-- scan pulse -->
-  <ellipse cx="0" cy="15" rx="75" ry="105" fill="none" stroke="#fff" opacity=".28">
-    <animate attributeName="rx" values="55;100;55" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="ry" values="80;125;80" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values=".35;0;.35" dur="2s" repeatCount="indefinite"/>
-  </ellipse>
+  <path d="M600 48 Q700 95 790 155 T950 280">
+    <animate attributeName="stroke-dashoffset" values="0;-30" dur=".8s" repeatCount="indefinite"/>
+  </path>
 </g>
 
-<!-- cyber HUD -->
-<g font-family="monospace" fill="#fff">
-  <text x="32" y="38" font-size="14" opacity=".7">SPIDER_SCAN://ACTIVE</text>
-  <text x="32" y="62" font-size="11" opacity=".45">AI • SECURITY • NETWORK ANALYSIS</text>
-  <text x="1010" y="38" font-size="13" opacity=".7">ROAMING...</text>
-  <text x="1010" y="62" font-size="11" opacity=".45">THREAT MAP: LIVE</text>
-</g>
-
-<!-- sweeping scan beam -->
-<rect x="15" y="18" width="4" height="264" rx="2" fill="#fff" opacity=".65" filter="url(#glow)">
-  <animate attributeName="x" values="15;1185;15" dur="6s" repeatCount="indefinite"/>
+<!-- cinematic scan line -->
+<rect x="20" y="20" width="4" height="260" rx="2" fill="#fff" opacity=".55" filter="url(#glow)">
+  <animate attributeName="x" values="20;1180;20" dur="5s" repeatCount="indefinite"/>
 </rect>
 
-<path d="M460 270 Q600 215 740 270" fill="none" stroke="#fff" opacity=".12"/>
-<circle cx="600" cy="245" r="18" fill="none" stroke="#fff" opacity=".15">
-  <animate attributeName="r" values="18;65;18" dur="2.8s" repeatCount="indefinite"/>
+<!-- small HUD -->
+<g font-family="monospace" fill="#fff">
+  <text x="35" y="42" font-size="14" opacity=".72">SPIDER_SCAN://ACTIVE</text>
+  <text x="35" y="64" font-size="11" opacity=".45">AI • CYBERSECURITY • ANALYZING</text>
+  <text x="1005" y="42" font-size="13" opacity=".72">THREAT MAP: LIVE</text>
+  <text x="1005" y="64" font-size="11" opacity=".45">WEB LINK: ACTIVE</text>
+</g>
+
+<!-- pulse -->
+<circle cx="600" cy="245" r="20" fill="none" stroke="#fff" opacity=".15">
+  <animate attributeName="r" values="20;70;20" dur="2.5s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".3;0;.3" dur="2.5s" repeatCount="indefinite"/>
 </circle>
 </svg>
