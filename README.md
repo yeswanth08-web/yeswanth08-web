@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Cybersecurity+Enthusiast;B.Tech+Information+Technology+Student;Learning+to+Build+Intelligent+%26+Secure+Systems" alt="Typing animation" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yeswanth08-web&label=Profile%20Views&style=flat" alt="Profile views" />
-</p>
-
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Information Technology student
