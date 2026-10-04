@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#050816"/><stop offset="50%" stop-color="#0b1026"/><stop offset="100%" stop-color="#02030a"/>
+  </linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#00f5ff"/><stop offset="50%" stop-color="#7c3aed"/><stop offset="100%" stop-color="#ff2bd6"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#25304d" stroke-width="1" opacity=".45"/>
+  </pattern>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<rect x="0" y="0" width="1200" height="360" fill="url(#grid)" opacity=".8"/>
+<g fill="none" stroke="url(#neon)" filter="url(#glow)" opacity=".8">
+  <circle cx="600" cy="180" r="92" stroke-width="2" stroke-dasharray="8 12">
+    <animateTransform attributeName="transform" type="rotate" from="0 600 180" to="360 600 180" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="180" r="125" stroke-width="1.5" stroke-dasharray="3 18">
+    <animateTransform attributeName="transform" type="rotate" from="360 600 180" to="0 600 180" dur="18s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M70 280 Q300 80 520 210 T1130 80" stroke-width="2" stroke-dasharray="10 14">
+    <animate attributeName="stroke-dashoffset" from="0" to="-240" dur="3s" repeatCount="indefinite"/>
+  </path>
+</g>
+<g fill="#00f5ff" filter="url(#glow)">
+  <circle cx="110" cy="90" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="1.5s" repeatCount="indefinite"/></circle>
+  <circle cx="1040" cy="265" r="4"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="930" cy="75" r="2"><animate attributeName="opacity" values=".1;1;.1" dur="1.2s" repeatCount="indefinite"/></circle>
+</g>
+<g text-anchor="middle" font-family="Segoe UI,Arial,sans-serif">
+  <text x="600" y="126" fill="#8b93ad" font-size="18" letter-spacing="7">WELCOME TO MY DIGITAL SPACE</text>
+  <text x="600" y="190" fill="white" font-size="48" font-weight="700" letter-spacing="2">YESWANTH KRISHNA CHOWDARY</text>
+  <text x="600" y="232" fill="#00f5ff" font-size="24" font-weight="600" letter-spacing="4">AI • CYBERSECURITY • EXPLORATION</text>
+  <text x="600" y="282" fill="#8b93ad" font-size="16" letter-spacing="3">LEARN  //  EXPERIMENT  //  BUILD  //  SECURE</text>
+</g>
+<rect x="2" y="2" width="1196" height="356" rx="26" fill="none" stroke="url(#neon)" stroke-width="2" opacity=".7">
+  <animate attributeName="opacity" values=".35;.9;.35" dur="3s" repeatCount="indefinite"/>
+</rect>
+</svg>
