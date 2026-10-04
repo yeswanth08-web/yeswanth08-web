@@ -5,7 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="./assets/cyber-hero.svg" width="100%" alt="Animated AI and cybersecurity banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1800&pause=700&color=FF4ECD&center=true&vCenter=true&width=900&height=55&lines=%3E%3E+BOOTING+YESWANTH.exe...;%5BOK%5D+AI+MODULE+ONLINE;%5BOK%5D+CYBER+MODULE+ONLINE;%5B%3F%5D+STILL+BREAKING+THINGS+%F0%9F%98%8E" alt="Funky animated terminal" />
+</p>
+
+<p align="center">
+  <b>╭─────────────── ⚡ DIGITAL MODE: ON ⚡ ───────────────╮</b><br>
+  🧠 AI&nbsp;&nbsp;•&nbsp;&nbsp;🛡️ Cybersecurity&nbsp;&nbsp;•&nbsp;&nbsp;💻 Code&nbsp;&nbsp;•&nbsp;&nbsp;☕ Repeat
 </p>
 
 ## 🧑‍💻 About Me
