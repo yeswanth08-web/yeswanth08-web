@@ -42,6 +42,27 @@
 - 🛡️ AI applied to cybersecurity
 - ⚙️ Problem solving and software development
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeswanth08-web&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeswanth08-web&layout=compact&hide_border=true" height="170" alt="Top languages" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yeswanth08-web&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeswanth08-web/yeswanth08-web/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeswanth08-web/yeswanth08-web/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/yeswanth08-web/yeswanth08-web/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## 🎯 What I'm Working Toward
 
 Building strong foundations in **AI, cybersecurity, programming, and problem solving** through consistent learning and hands-on practice.
