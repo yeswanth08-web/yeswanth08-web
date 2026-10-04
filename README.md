@@ -1,7 +1,7 @@
 # Hi, I'm Yeswanth Krishna Chowdary 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2200&pause=650&color=22D3EE&center=true&vCenter=true&width=900&height=70&lines=AI+%26+Cybersecurity+Learner;B.Tech+Information+Technology+Student;Learning+to+Build+Intelligent+%26+Secure+Systems" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2200&pause=650&color=FFB000&center=true&vCenter=true&width=900&height=70&lines=AI+%26+Cybersecurity+Learner;B.Tech+Information+Technology+Student;Learning+to+Build+Intelligent+%26+Secure+Systems" alt="Animated introduction" />
 </p>
 
 <p align="center">
