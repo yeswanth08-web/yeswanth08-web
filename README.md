@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&duration=1500&pause=550&color=FFFFFF&center=true&vCenter=true&width=900&height=55&lines=%5B+%E2%9C%A8+SYSTEM+ONLINE+%E2%9C%A8+%5D;%3E+%F0%9F%A7%A0+AI+%2B+%F0%9F%9B%A1%EF%B8%8F+CYBERSECURITY;%3E%3E+%F0%9F%93%9A+LEARN.+%F0%9F%92%A5+BREAK.+%F0%9F%9B%A0%EF%B8%8F+BUILD.+%F0%9F%94%A5+REPEAT.;%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F%5F" alt="Animated futuristic status" />
 </p>
 
+<p align="center">
+  <img src="./assets/spider-tech.svg" width="100%" alt="Animated spider-tech character scanning and roaming" />
+</p>
+
 ## 🧑‍💻 About Me
 
 - 🎓 B.Tech Information Technology student
