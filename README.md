@@ -1,28 +1,25 @@
-&#x20;\<div align="center">
+ <div align="center">
 
-# YESWANTH KRISHNA CHOWDARY AKKINENI&#x20;
+# YESWANTH KRISHNA CHOWDARY AKKINENI
 
 ### AI & CYBERSECURITY | INFORMATION TECHNOLOGY
 
-\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=850&height=55&lines=AI+%26+Cybersecurity+Learner;Exploring+Threat+Detection+%26+Network+Security;Building+Intelligent+%26+Secure+Systems](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=25\&duration=2500\&pause=700\&color=00D9FF\&center=true\&vCenter=true\&width=850\&height=55\&lines=AI+%26+Cybersecurity+Learner;Exploring+Threat+Detection+%26+Network+Security;Building+Intelligent+%26+Secure+Systems)" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=850&height=55&lines=AI+%26+Cybersecurity+Learner;Exploring+Threat+Detection+%26+Network+Security;Building+Intelligent+%26+Secure+Systems" alt="Animated introduction" />
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/Focus-Artificial%20Intelligence-00D9FF?style=for-the-badge&logo=probot&logoColor=white](https://img.shields.io/badge/Focus-Artificial%20Intelligence-00D9FF?style=for-the-badge\&logo=probot\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Focus-Cybersecurity-0077B5?style=for-the-badge&logo=shield&logoColor=white](https://img.shields.io/badge/Focus-Cybersecurity-0077B5?style=for-the-badge\&logo=shield\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Domain-Information%20Technology-6C63FF?style=for-the-badge&logo=code&logoColor=white](https://img.shields.io/badge/Domain-Information%20Technology-6C63FF?style=for-the-badge\&logo=code\&logoColor=white)" />
-\</p>
+<p>
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY & AI-0077B5?style=for-the-badge&logo=shield&logoColor=white" />
+<img src="https://img.shields.io/badge/DOMAIN-INFORMATION%20TECHNOLOGY-6C63FF?style=for-the-badge&logo=code&logoColor=white" />
+</p>
 
-\</div>
+</div>
 
 ---
 
-## 👨‍💻 Professional Profile
+## 👨‍💻 PROFESSIONAL PROFILE
 
 I'm an Information Technology undergraduate focused on developing practical knowledge in **Cybersecurity, Artificial Intelligence, and Network Security**.
 
 My interests include understanding cyber threats, identifying vulnerabilities, analyzing network behaviour, and exploring how machine learning can improve security detection and response.
-
-I believe in learning by building, experimenting, and continuously improving technical skills.
 
 - 🎓 B.Tech – Information Technology
 - 🛡️ Focus: Cybersecurity & Information Security
@@ -30,41 +27,43 @@ I believe in learning by building, experimenting, and continuously improving tec
 - 🌐 Exploring: Network Security & Web Application Security
 - 💻 Approach: Hands-on learning and practical implementation
 
-## 🛡️ Cybersecurity Knowledge & Skills
+## 🛡️ CYBERSECURITY KNOWLEDGE & SKILLS
 
-| Domain                   | Areas of Learning                                                |
-| ------------------------ | ---------------------------------------------------------------- |
-| Network Security         | TCP/IP, DNS, HTTP/HTTPS, ports, protocols                        |
-| Linux Security           | Linux commands, permissions, processes, shell basics             |
-| Web Security             | OWASP Top 10, authentication, session security                   |
-| Vulnerability Assessment | Vulnerability identification, risk analysis                      |
-| Threat Analysis          | Threat intelligence, attack surfaces, indicators of compromise   |
-| Security Operations      | Log analysis, monitoring, incident response fundamentals         |
-| Cryptography             | Encryption, hashing, symmetric and asymmetric cryptography       |
-| Ethical Hacking          | Reconnaissance, scanning, security testing fundamentals          |
-| AI in Cybersecurity      | Anomaly detection, phishing detection, ML-based threat detection |
+| Domain | Areas of Learning |
+|---|---|
+| Network Security | TCP/IP, DNS, HTTP/HTTPS, ports, protocols |
+| Linux Security | Linux commands, permissions, processes, shell basics |
+| Web Security | OWASP Top 10, authentication, session security |
+| Vulnerability Assessment | Vulnerability identification, risk analysis |
+| Threat Analysis | Threat intelligence, attack surfaces, indicators of compromise |
+| Security Operations | Log analysis, monitoring, incident response fundamentals |
+| Cryptography | Encryption, hashing, symmetric and asymmetric cryptography |
+| Ethical Hacking | Reconnaissance, scanning, security testing fundamentals |
+| AI in Cybersecurity | Anomaly detection, phishing detection, ML-based threat detection |
 
-## ⚙️ Technical Stack
+## ⚙️ TECHNICAL STACK
 
 ### Programming & Development
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode](https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode)" />
-\</p>
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode" alt="Programming and development tools" />
+</p>
 
-### Cybersecurity & Networking
+### Operating Systems & Networking
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=linux,bash,docker](https://skillicons.dev/icons?i=linux,bash,docker)" />
-\</p>
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,docker" alt="Linux, Bash and Docker" />
+</p>
 
-**Currently exploring security tools:**
+### Security Tools – Currently Exploring
 
-- Nmap – Network discovery and port scanning
-- Wireshark – Network traffic analysis
-- Burp Suite – Web application security testing
-- OWASP ZAP – Web security assessment
-- Kali Linux – Security testing environment
+<p>
+<img src="https://img.shields.io/badge/Nmap-Network%20Scanning-4682B4?style=flat-square" />
+<img src="https://img.shields.io/badge/Wireshark-Traffic%20Analysis-1679A7?style=flat-square" />
+<img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=flat-square" />
+<img src="https://img.shields.io/badge/OWASP%20ZAP-Security%20Testing-00549E?style=flat-square" />
+<img src="https://img.shields.io/badge/Kali%20Linux-Security%20Lab-557C94?style=flat-square" />
+</p>
 
 ### Core Technologies
 
@@ -74,9 +73,7 @@ I believe in learning by building, experimenting, and continuously improving tec
 - **Networking:** TCP/IP, DNS, HTTP/HTTPS
 - **Development:** VS Code
 
-## 🤖 AI & Cybersecurity Interests
-
-I'm particularly interested in combining AI with cybersecurity to explore:
+## 🤖 AI & CYBERSECURITY INTERESTS
 
 - Machine-learning-based malicious activity detection
 - AI-assisted phishing and fraud detection
@@ -84,22 +81,22 @@ I'm particularly interested in combining AI with cybersecurity to explore:
 - Intelligent threat classification
 - Automated security analysis
 
-## 🚀 Featured Project
+## 🚀 FEATURED PROJECT
 
 ### Q-NET – Quantum Network Optimizer
 
 A QAOA-based quantum network routing optimization simulator developed using Python, Qiskit, NetworkX and Streamlit.
 
-\<p>
-\<a href="[https://github.com/yeswanth08-web/Q-NET-Quantum-Network-Optimizer](https://github.com/yeswanth08-web/Q-NET-Quantum-Network-Optimizer)">
-\<img src="[https://img.shields.io/badge/GitHub-View%20Source-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-View%20Source-181717?style=for-the-badge\&logo=github)" />
-\</a>
-\<a href="[https://q-net-quantum-network-optimizer-ba6qfbehx7brs32gejekvm.streamlit.app/](https://q-net-quantum-network-optimizer-ba6qfbehx7brs32gejekvm.streamlit.app/)">
-\<img src="[https://img.shields.io/badge/Live%20Demo-Explore%20Project-00C853?style=for-the-badge&logo=streamlit&logoColor=white](https://img.shields.io/badge/Live%20Demo-Explore%20Project-00C853?style=for-the-badge\&logo=streamlit\&logoColor=white)" />
-\</a>
-\</p>
+<p align="left">
+<a href="https://github.com/yeswanth08-web/Q-NET-Quantum-Network-Optimizer">
+<img src="https://img.shields.io/badge/GitHub-View%20Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Source Code" />
+</a>
+<a href="https://q-net-quantum-network-optimizer-ba6qfbehx7brs32gejekvm.streamlit.app/">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-EXPLORE%20PROJECT-00C853?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
+</a>
+</p>
 
-## 📚 Currently Learning
+## 📚 CURRENTLY LEARNING
 
 - Advanced Python programming
 - Linux and networking fundamentals
@@ -108,30 +105,30 @@ A QAOA-based quantum network routing optimization simulator developed using Pyth
 - Machine learning for security applications
 - Security monitoring and incident response
 
-## 🎯 Career Objective
+## 🎯 CAREER OBJECTIVE
 
 To develop into a skilled cybersecurity professional with strong foundations in **AI-driven threat detection, network security, and information security**, contributing to the development of intelligent and resilient digital systems.
 
 ---
 
-\<div align="center">
+<div align="center">
 
 ### CONNECT WITH ME
 
-\<a href="[https://github.com/yeswanth08-web](https://github.com/yeswanth08-web)">
-\<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-\</a>
+<a href="https://github.com/yeswanth08-web">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-\<a href="[https://www.linkedin.com/](https://www.linkedin.com/)">
-\<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
-\</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-\<a href="mailto\:akkineniyeswanthkrishna\@gmail.com">
-\<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />
-\</a>
+<a href="mailto:akkineniyeswanthkrishna@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-\<br/>
+<br/>
 
 **LEARN • ANALYZE • BUILD • SECURE**
 
-\</div>
+</div>
